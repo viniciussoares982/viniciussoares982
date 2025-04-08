@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Vinicius Soares
 
-🎯 Desenvolvedor Frontend | 💡 Apaixonado por tecnologia, design e soluções inteligentes  
+🎯 Desenvolvedor Web | 💡 Apaixonado por tecnologia, design e soluções inteligentes  
 📍 Baseado em Belo Horizonte, Minas Gerais  
 📬 Contato: vinicius.soares852@gmail.com
 
@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-Atualmente trabalho como dev Frontend em uma fintech, contribuindo para projetos Webs, como Sites institucionais, blog, listagem de fundos imobiliarios, portais de notícias, CMS, Design Systems, Storybook.
+Atualmente trabalho como desenvolvedor web em uma fintech, contribuindo para projetos Webs, como Sites institucionais, blog, listagem de fundos imobiliarios, portais de notícias, CMS, Design Systems, Storybook.
 Também possuo atuação nos serviços AWS, como Bucket S3, Lambda, Cloudfront e Route 53.
 
 Em meus estudos recentes, estou me aperfeiçoando em explorar mais testes em aplicações e entender melhor UI Design.
