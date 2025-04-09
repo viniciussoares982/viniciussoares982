@@ -17,14 +17,13 @@ Em meus estudos recentes, estou me aperfeiçoando em explorar mais testes em apl
 
 ## 🧠 Habilidades e Tecnologias
 
-- ⚛️ React, Next.js (v13+), Gatsby (v5)
+- ⚛️ React, Next.js (v13+), GatsbyJS
 - 🧩 Micro Frontends, BFF
-- 💅 CSS3, Styled-components, TailwindCSS
+- 💅 CSS3, Styled-components, TailwindCSS, SASS
 - 🧠 Design System, Acessibilidade (WCAG)
 - 🧪 Jest, Testing Library
 - 🌐 SEO, Google Search Console, Analytics
 - ☁️ AWS (S3, CloudFront, Route 53)
-- 🛍️ VTEX
 - 🔧 Git, GitHub, CI/CD
 
 ---
@@ -35,5 +34,3 @@ Em meus estudos recentes, estou me aperfeiçoando em explorar mais testes em apl
 - Email: [vinicius.soares852@gmail.com](mailto:vinicius.soares852@gmail.com)
 
 ---
-
-> *“Transformando ideias em interfaces incríveis.”* 🚀
