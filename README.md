@@ -8,10 +8,9 @@
 
 ## 🚀 Sobre mim
 
-Atualmente trabalho como desenvolvedor web em uma fintech, contribuindo para projetos Webs, como Sites institucionais, blog, listagem de fundos imobiliarios, portais de notícias, CMS, Design Systems, Storybook.
-Também possuo atuação nos serviços AWS, como Bucket S3, Lambda, Cloudfront e Route 53.
+Sou desenvolvedor com 4 anos de experiência trabalhando em projetos com ReactJS, Typescript, GatsbyJS, NextJS, NodeJS, HTML, CSS, CSS-in-JS e TailwindCSS. Trabalhei em grandes variedades de projetos individuais e em grupo sempre dando ênfase a Web Performance Optimization (WPO) e Search Engine Optimization (SEO) e Google Analytics 4(GA4). Tenho experiência utilizando serviços da AWS, como Cloudfront, Bucket S3, Lambda e Route 53. Possuo uma base sólida de conhecimento em UI Design, com domínio de ferramentas como Figma, garantindo a criação de interfaces consistentes, acessíveis e centradas no usuário.
 
-Em meus estudos recentes, estou me aperfeiçoando em explorar mais testes em aplicações e entender melhor UI Design.
+Atualmente, estou focando meus estudos em Arquitetura de Software, com o objetivo de aplicar melhores práticas na criação de projetos, aprimorar minha comunicação em discussões técnicas e ter uma visão mais ampla e estratégica das aplicações com as quais trabalho, para aprofundar meus estudos vou iniciar uma pós graduação em Arquitetura de Software.
 
 ---
 
